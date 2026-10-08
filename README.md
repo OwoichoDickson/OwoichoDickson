@@ -28,11 +28,11 @@ private**, so here's a tour of what I've actually shipped.
 | **Clarix Health** | Lab operating system for private diagnostic labs — orders, results, billing, staff app | NestJS · PostgreSQL · Flutter |
 | **StratCom** | Strategic-communications operations system for a government MSME & startup agency | Next.js · TypeScript · Supabase |
 | **Claims Platform** | Provider-side hospital claims & receivables with bitemporal tariffs | Next.js · PostgreSQL |
-| **GarmentHub ERP** | Factory ERP for a fashion & garment hub — production, inventory, staff | React · Vite · Tailwind · Supabase |
+| **[GarmentHub ERP](https://github.com/OwoichoDickson/garmenthub-factory-erp)** 🟢 | Factory ERP for a fashion & garment hub — production, inventory, staff | React · Vite · Tailwind · Supabase |
 | **ESME CMS** | Enterprise CMS + public site for an SME support center | Next.js · Supabase |
 | **Watsmark** | WhatsApp marketing platform — campaigns, queues, edge functions | TypeScript · Supabase · BullMQ |
 
-> Private repos — happy to walk through code, architecture and live demos on request.
+> 🟢 = public & browsable. The rest are private client work — happy to walk through code, architecture and live demos on request.
 
 ### 🧰 Tech I build with
 
