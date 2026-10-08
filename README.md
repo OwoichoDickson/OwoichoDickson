@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Based%20in-Porto,%20Portugal-141414?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-work-2ea44f?style=flat-square" alt="Open to work"/>
   <img src="https://komarev.com/ghpvc/?username=OwoichoDickson&style=flat-square&color=blue" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/emmanuel-dickson-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -59,7 +60,7 @@ private**, so here's a tour of what I've actually shipped.
 ### 📫 Get in touch
 
 - 📧 **Email:** blisicmee2@gmail.com
-- 💼 **LinkedIn:** _coming soon_
+- 💼 **LinkedIn:** [emmanuel-dickson-](https://www.linkedin.com/in/emmanuel-dickson-/)
 - 🌐 **Portfolio:** _coming soon_
 
 <sub>Open to full-stack and founding-engineer roles — remote or Porto-based.</sub>
